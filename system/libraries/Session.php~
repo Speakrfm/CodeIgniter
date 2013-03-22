@@ -7,9 +7,6 @@
  * @category    Session
  * @author      Bo-Yi Wu (appleboy) <appleboy.tw@gmail.com>
  * @author      Marko Martinović <marko@techytalk.info>
- *
- * File included to Speakr.fm's CodeIgniter repo.
- * @author		Luís Eduardo Brito <luis.brito@speakr.fm>
  */
 
 class Session
